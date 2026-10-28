@@ -9,4 +9,4 @@
 - Playwright Setup: `npx playwright install --with-deps`
 - Rapid Iteration: `npm run test:js` and `npm run test:modules`
 - Build/Bundle Testing: `npm run test:build`
-- Full CI Run: `npm test`
+- Full CI Run: `npm test` 

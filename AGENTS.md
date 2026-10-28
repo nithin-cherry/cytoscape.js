@@ -12,4 +12,4 @@ This file routes agent tasks to the correct domain to conserve context and preve
 - Use Node via `.nvmrc` (`nvm use`).
 - Use `npm` (relies on `package-lock.json`).
 - Source of truth is `src/`. Do not edit generated files in `build/`, `dist/`, or `documentation/`.
-- Documentation source is `documentation/docmaker.json` and `documentation/md/`.
+- Documentation source is `documentation/docmaker.json` and `documentation/md/`.  
